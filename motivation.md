@@ -8,7 +8,6 @@ from scratch — like if I see something happening around me I naturally start
 wondering if and how it could be modelled or solved computationally.
 
 ## Why Mesa
-## Why Mesa
 I'm someone who genuinely enjoys thinking about how the world works —
 I have long conversations with friends about philosophy, society, human
 behavior, why people do what they do. It's just how my mind works in
